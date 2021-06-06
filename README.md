@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Kabra</h1>
-<h3 align="center">A passionate frontend developer from India!</h3>
+<img sr="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-kabra&label=Profile%20views&color=0e75b6&style=flat" alt="parth-kabra" /> </p>
 
