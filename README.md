@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Kabra</h1>
-<p><img align="center" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif" alt="image" width="100%"/></p>
+<p><img align="center" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif" alt="image" width="100%" height="60%"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-kabra&label=Profile%20views&color=0e75b6&style=flat" alt="parth-kabra"  /> </p>
 
