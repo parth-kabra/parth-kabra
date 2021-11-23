@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Part Kabra</h1>
 <h3 align="center">A passionate Competitive Programmer & Developer from India</h3>
 
+<img src = "file:///C:/Users/HP/Downloads/-%20Find%20&%20Share%20on%20GIPHY.gif" />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth-kabra" alt="parth-kabra" /></a> </p>
 
 - 🔭 I’m currently working on **Making My DS Strong**
