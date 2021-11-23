@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **Making my DSA strong**
 
-- 🌱 I’m currently learning **DSA, Django**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Open Source**
-
-- 🤝 I’m looking for help with **React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
