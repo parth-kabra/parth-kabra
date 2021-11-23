@@ -3,7 +3,7 @@
 
 <img src = "https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width = "100%" height = "60%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth-kabra" alt="parth-kabra" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🔭 I’m currently working on **Making My DS Strong**
 
