@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Competitive Programmer & Developer from India</h3>
 
 <div align = "center">
-  <img src = "https://c.tenor.com/hI3YXdVkRRQAAAAd/imma-be-honest-im-a-noob-connerbobay.gif" width = "90%" height = "60%" align = "center"/>
+  <img src = "https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" width = "90%" height = "60%" align = "center"/>
 </div>
 
 - 🔭 I’m currently working on **Making My DS Strong**
