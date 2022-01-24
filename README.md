@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Making My DS Strong**
 
-- 🌱 I’m currently learning **Graphs (DS)**
+- 🌱 I’m currently learning **Dynamic Programming**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
