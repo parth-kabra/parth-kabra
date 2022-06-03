@@ -5,6 +5,9 @@
   <img src = "https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" width = "90%" height = "60%" align = "center"/>
 </div>
 
+![](https://komarev.com/ghpvc/?username=your-parth-kabra&style=flat-square)
+
+
 - 🔭 I’m currently working on **Making My DS Strong**
 
 - 🌱 I’m currently learning **Dynamic Programming**
