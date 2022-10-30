@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Kabra</h1>
-<h3 align="center">A passionate Competitive Programmer & Developer from India</h3>
+<h3 align="center">A passionate Competitive Programmer & Freelance Web Developer from India</h3>
 
 <br>
 <img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
