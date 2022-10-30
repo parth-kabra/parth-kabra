@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://parth-kabra.github.io/parthkabra/](https://parth-kabra.github.io/parthkabra/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://parth-kabra.vercel.app/)
 
 - 📫 How to reach me **kabraji001@gmail.com**
 
