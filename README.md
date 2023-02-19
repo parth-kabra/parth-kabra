@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Competitive Programmer & Freelance Web Developer from India</h3>
 
 <br>
-<img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
+<img src="banner.jpg">
 
 - 🔭 I’m currently working on **Making My DS Strong**
 
