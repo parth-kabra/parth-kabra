@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-kabra&label=Profile%20views&color=0e75b6&style=flat" alt="parth-kabra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth-kabra" alt="parth-kabra" /></a> </p>
-
 - 🔭 I’m currently working on **Making my DS strong**
 
 - 🌱 I’m currently learning **Full stack web development**
