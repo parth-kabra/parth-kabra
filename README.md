@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **kabraji001@gmail.com**
+- 📫 How to reach me **parthskabra@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
