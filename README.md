@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth Kabra</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
+<a align="center" href="https://parth-kabra.vercel.app/" target="blank">
+<p align="center"> <img src="Capture.PNG" /> </p>
+</a> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-kabra&label=Profile%20views&color=0e75b6&style=flat" alt="parth-kabra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth-kabra" alt="parth-kabra" /></a> </p>
